@@ -1,2 +1,2 @@
-# novice_to_pro
-Social network to connect newbees and professional experts in their respective field.
+quesAndans
+A simple social network to ask question and answers.
